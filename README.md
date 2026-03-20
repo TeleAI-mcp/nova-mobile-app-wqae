@@ -1,2 +1,3 @@
-# nova-mobile-app-wqae
-Repository to test GitHub automation for issue management
+# Nova Mobile App Wqae
+
+A repository to test GitHub automation for issue management.
